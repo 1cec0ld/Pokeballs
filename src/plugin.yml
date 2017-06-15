@@ -1,0 +1,6 @@
+main: com.gmail.ak1cec0ld.plugins.Pokeballs.Pokeballs
+name: Pokeballs
+version: 1.0.0
+author: 1cec0ld
+description: No Description
+prefix: PB
